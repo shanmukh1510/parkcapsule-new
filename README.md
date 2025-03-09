@@ -7,3 +7,9 @@ Park Capsule, a revolutionary solution designed to transform urban parking. Our 
 - Find the directions from your current place to your booked slot after payment
 - Extend your booking time and finish your payment with just few click
 ## Tech Stack
+- Nextjs
+- Express
+- Razorpay
+- Google API
+- Geocode API
+- Twilio
