@@ -14,3 +14,6 @@ Park Capsule, a revolutionary solution designed to transform urban parking. Our 
 - Geocode API
 - Twilio
 ## Future Updates
+- Implementing rating and feedback system for a parking slot.
+- Users can rent a parked vehicle.
+- Advance booking system.
